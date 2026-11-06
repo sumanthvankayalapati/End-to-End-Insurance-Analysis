@@ -99,7 +99,8 @@ The analysis focuses on identifying:
 ![Tableau Dashboard](Tableau_Dashboard.png)
 
 ### Power BI Dashboard
-![Power BI Dashboard](Dashboard-Screenshots/PowerBI_Dashboard.png)
+
+![Power BI Dashboard](PowerBI_Dashboard.png)
 
 ## 📚 Skills Demonstrated
 
