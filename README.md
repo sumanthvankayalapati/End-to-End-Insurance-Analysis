@@ -119,7 +119,7 @@ This project provided practical experience in analyzing insurance business data 
 
 ## 👨‍💻 Author
 
-**Sumanth Sunny**
+**Vankayalapati Sumanth **
 
 Aspiring Data Analyst
 
@@ -127,4 +127,4 @@ Aspiring Data Analyst
 
 **GitHub:** https://github.com/sumanthvankayalapati
 
-**LinkedIn:** Add your LinkedIn profile URL here
+**LinkedIn:**www.linkedin.com/in/vankayalapati-sumanth-60562626a
